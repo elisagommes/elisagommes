@@ -11,13 +11,6 @@ Estou cursando Desenvolvimento de Sistemas. Sou apaixonada por tecnologia e cois
     <a href=
         />
     </a> 
-    <a href="https://github.com/elisagommes?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/elisagommes?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
     <a href="https://github.com/elisagommes?tab=followers">
         <img 
             alt="Seguidores" 
