@@ -5,7 +5,7 @@
 - 😄 Pronouns: ela/dela
 
 
-Me chamo Elisa Gomes! Atualmente, estou cursando Desenvolvimento de Sistemas. Sou apaixonada por tecnologia e coisas novas 😸. <br>Se quiser ver meu perfil profissional, só acessar meu Linkedin: "[Elisa Gomes](https://www.linkedin.com/in/elisa-gomes-96250a394)"
+Estou cursando Desenvolvimento de Sistemas. Sou apaixonada por tecnologia e coisas novas 😸. <br>Se quiser ver meu perfil profissional, só acessar meu Linkedin: "[Elisa Gomes](https://www.linkedin.com/in/elisa-gomes-96250a394)"
 
 <p align="left"> 
     <a href=
