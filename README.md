@@ -5,20 +5,19 @@
 - 😄 Pronouns: ela/dela
 
 
-Estou cursando Desenvolvimento de Sistemas. Sou apaixonada por tecnologia e coisas novas 😸. <br>Se quiser ver meu perfil profissional, só acessar meu Linkedin: "[Elisa Gomes](https://www.linkedin.com/in/elisa-gomes-96250a394)"
+Estou cursando Desenvolvimento de Sistemas. Sou apaixonada por tecnologia e coisas novas!😸
 
 <p align="left"> 
     <a href=
         />
     </a> 
-    <a href="https://github.com/elisagommes?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/elisagommes?color=EE1289&labelColor=CD1076&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-
+  
+<div> 
+  <a href="https://instagram.com/elisagommes_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:elisagommes@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/elisa-gomes-96250a394/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
     
 </p>
 
