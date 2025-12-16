@@ -11,7 +11,7 @@ Me chamo Elisa Gomes! Atualmente, estou cursando Desenvolvimento de Sistemas. So
     <a href=
         />
     </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/elisagommes?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
