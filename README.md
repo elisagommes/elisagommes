@@ -81,3 +81,8 @@ Me chamo Elisa Gomes! Atualmente, estou cursando Desenvolvimento de Sistemas. So
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisagommes&theme=synthwave&layout=compact&custom_title=Linguagens&langs_count=9" 
   />
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elisagommes/elisagommes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elisagommes/elisagommes/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/elisagommes/elisagommes/output/github-contribution-grid-snake.svg">
+</picture>
