@@ -25,6 +25,8 @@ Me chamo Elisa Gomes! Atualmente, estou cursando Desenvolvimento de Sistemas. So
             src="https://custom-icon-badges.demolab.com/github/followers/elisagommes?color=EE1289&labelColor=CD1076&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+
+    
 </p>
 
 ---
@@ -79,4 +81,3 @@ Me chamo Elisa Gomes! Atualmente, estou cursando Desenvolvimento de Sistemas. So
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisagommes&theme=synthwave&layout=compact&custom_title=Linguagens&langs_count=9" 
   />
 
-</p>
