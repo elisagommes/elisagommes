@@ -5,7 +5,7 @@
 - 😄 Pronouns: ela/dela
 
 
-Estou cursando Desenvolvimento de Sistemas. Sou apaixonada por tecnologia e coisas novas!😸
+estou cursando Desenvolvimento de Sistemas(n gosto mt, n vou mentirkkj) mas eu gosto de batata frita, isso é legal.😸
 
 <p align="left"> 
     <a href=
